@@ -3,7 +3,7 @@
 In this project i have created a To-Do List With the help of HTML CSS & JS.
 <br>
 <br>
-# HOW TO USE:
+HOW TO USE:
 <br>
 Open the link in any browser to use it
 <br>
